@@ -2,6 +2,8 @@
 
 ## Tesla Optimus
 
+[![](http://img.youtube.com/vi/cpraXaw7dyc/0.jpg)](http://www.youtube.com/watch?v=cpraXaw7dyc "Optimus - Gen 2 | Tesla")
+
 Tesla Optimusは、テスラ社が開発している人型ロボットです。主な特徴は以下の通りです:
 - 二足歩行が可能な人型ロボットで、人間と同じような体型をしています。
 - 目標価格は約290万円(2万ドル)で、一般消費者向けの製品化を目指しています。
