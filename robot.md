@@ -15,7 +15,9 @@ Tesla Optimusは、テスラ社が開発している人型ロボットです。�
 Optimusは野心的なプロジェクトですが、まだ開発途上の技術であり、今後の進化が注目されています。
 
 
-## Boston Dynamics Atlas
+## Boston Dynamics new Atlas
+
+[![](http://img.youtube.com/vi/29ECwExc-_M/0.jpg)](http://www.youtube.com/watch?v=29ECwExc-_M "All New Atlas | Boston Dynamics")
 
 https://bostondynamics.com/atlas/
 
