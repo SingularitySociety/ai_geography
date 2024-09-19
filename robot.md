@@ -57,7 +57,9 @@ Figure 02は、Figure AI社が開発した最新の人型ロボット(ヒュー�
 - 実用性: 製造業や物流業界での活用が期待されており、BMWの製造工程でテストされています。
 Figure 02は、高度なAI技術と洗練されたハードウェアを組み合わせることで、人間との協働や複雑なタスクの遂行を目指した次世代のヒューマノイドロボットと言えます。
 
-## 1X
+## 1X NEO Beta
+
+[![](http://img.youtube.com/vi/bUrLuUxv9gE/0.jpg)](http://www.youtube.com/watch?v=bUrLuUxv9gE "Introducing NEO Beta | A Humanoid Robot for the Home")
 
 https://www.1x.tech/
 
@@ -73,6 +75,8 @@ https://www.1x.tech/
 現時点では、まだ「賢い」ロボットというわけではありませんが、将来的にはAI技術との統合により、より高度な機能を持つことが期待されています。
 
 ## Unitree G1
+
+[![](http://img.youtube.com/vi/GzX1qOIO1bE/0.jpg)](http://www.youtube.com/watch?v=GzX1qOIO1bE "Unitree Introducing | Unitree G1 Humanoid Agent | AI Avatar | Price from $16K")
 
 https://shop.unitree.com/products/unitree-g1
 
