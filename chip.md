@@ -1,6 +1,6 @@
 # AIチップベンチャー
 
-## groq
+## [groq](https://groq.com)
 
 Groqは、AIアクセラレータ市場で急速に注目を集めているスタートアップ企業です。2016年に設立され、生成AIの推論(インファレンス)に特化したチップを開発しています。Groqの主な特徴は以下の通りです:
 - 超高速推論: Groqが開発したLanguage Processing Unit (LPU)チップは、従来のGPUと比べてAIモデルの推論を非常に高速に処理できます。
@@ -11,7 +11,7 @@ Groqは、AIアクセラレータ市場で急速に注目を集めているス�
 
 Groqは、AIモデルの高速処理を可能にする革新的なチップ技術で、AI業界に大きなインパクトを与えつつあるベンチャー企業だと言えます。
 
-## Cerebras
+## [Cerebras](https://cerebras.ai)
 
 Cerebrasは、AIに特化した半導体・コンピュータシステムを開発するアメリカのベンチャー企業です。主な特徴は以下の通りです:
 - ディープラーニング専用のコンピューターシステムを開発しています。
@@ -23,7 +23,7 @@ Cerebrasは、AIに特化した半導体・コンピュータシステムを開�
 
 Cerebrasは、従来のGPUベースのAIコンピューティングとは異なるアプローチで、AIの処理速度と効率を大幅に向上させることを目指しているベンチャー企業です。
 
-## SanbaNova
+## [SanbaNova](https://sambanova.ai)
 
 SambaNova Systems（サンバノバシステムズ）は、以下のような特徴を持つAI関連のベンチャー企業です：
 1. 設立：シリコンバレーを拠点とする企業で、2017年頃に設立されたと推測されます。
@@ -45,7 +45,7 @@ SambaNova Systems（サンバノバシステムズ）は、以下のような特
 
 SambaNovaは、高度な技術力と低コスト戦略を武器に、AI産業における新たな競争者として注目されている企業です。
 
-## Tenstorrent
+## [Tenstorrent](https://tenstorrent.com)
 
 Tenstorrentは、AI向け半導体の設計に特化したカナダのスタートアップ企業です。以下にTenstorrentの主な特徴をまとめます:
 1. 会社概要
@@ -65,7 +65,7 @@ Tenstorrentは、AI向け半導体の設計に特化したカナダのスター�
 
 Tenstorrentは、AI時代の新たな半導体アーキテクチャを提案し、NVIDIAなどの既存大手に挑戦する新興企業として注目を集めています。
 
-## Graphcore
+## [Graphcore](https://www.graphcore.ai)
 
 Graphcoreは以下のような特徴を持つAIチップ開発企業です:
 - 2016年にイギリスのブリストルで設立されたAI専用チップのスタートアップ企業。
@@ -79,7 +79,7 @@ Graphcoreは以下のような特徴を持つAIチップ開発企業です:
 
 Graphcoreは、次世代AIコンピューティングの実現を目指す革新的な企業として知られています。
 
-## Etched
+## [Etched](https://www.etched.com)
 
 Etchedは、2022年に設立されたAIチップのスタートアップで、トランスフォーマーモデルに特化したASIC（Application-Specific Integrated Circuit）を開発しています。以下は会社の主な特徴です。
 - 設立年：2022年
