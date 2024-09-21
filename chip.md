@@ -105,3 +105,11 @@ Hailoは、エッジAI向けの高性能プロセッサを開発するイスラ�
 - 2020年に日本法人を設立し、日本市場にも本格参入しています。
 
 Hailoは、エッジAIの実用化に向けて注目を集めているAIチップベンチャーの1つとして、今後の展開が期待されています。
+
+## [MYTHIC](https://mythic.ai/)
+
+## [blaize](https://www.blaize.com/)
+
+---
+
+## [celestial](https://www.celestial.ai/)
