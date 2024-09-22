@@ -65,7 +65,7 @@ Tenstorrentは、AI向け半導体の設計に特化したカナダのスター�
 
 Tenstorrentは、AI時代の新たな半導体アーキテクチャを提案し、NVIDIAなどの既存大手に挑戦する新興企業として注目を集めています。
 
-## [Graphcore](https://www.graphcore.ai)
+## [Graphcore](https://www.graphcore.ai) - Acquired
 
 Graphcoreは以下のような特徴を持つAIチップ開発企業です:
 - 2016年にイギリスのブリストルで設立されたAI専用チップのスタートアップ企業。
