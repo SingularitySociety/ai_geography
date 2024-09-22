@@ -17,37 +17,33 @@ Tesla Optimusは、テスラ社が開発している人型ロボットです。�
 Optimusは野心的なプロジェクトですが、まだ開発途上の技術であり、今後の進化が注目されています。
 
 
-## Boston Dynamics new Atlas
+## [Boston Dynamics new Atlas](https://bostondynamics.com/atlas/)
 
 [![](http://img.youtube.com/vi/29ECwExc-_M/0.jpg)](http://www.youtube.com/watch?v=29ECwExc-_M "All New Atlas | Boston Dynamics")
 
-https://bostondynamics.com/atlas/
-
 Boston Dynamicsの新しいAtlasは、これまでの油圧式から完全電動式に進化した最新の人型ロボットです。以下にその主な特徴を簡単に解説します:
-### 完全電動化
+-  完全電動化
 新型Atlasは、従来の油圧動力から完全電動式に移行しました。これにより、騒音の低減や取り扱いの容易さが向上し、より実用的な商業展開が可能になりました。
-### 高度な機動性と柔軟性
+-  高度な機動性と柔軟性
 新Atlasは、従来モデルと比較して可動範囲が広くなっています。これにより:
-- より安定した動作が可能に
-- 人間では不可能な関節の動きを実現
-- 複雑な姿勢や動作を容易に行える
-### 改良されたグリッパー
+  - より安定した動作が可能に
+  - 人間では不可能な関節の動きを実現
+  - 複雑な姿勢や動作を容易に行える
+- 改良されたグリッパー
 手の部分に新しいグリッパーが採用され、より繊細な操作が可能になりました。これにより:
-- 重くて不規則な形状の物体を扱える
-- 産業用途での活用が期待される
-### 実用性の向上
+  - 重くて不規則な形状の物体を扱える
+  - 産業用途での活用が期待される
+-  実用性の向上
 新Atlasは、研究用デモンストレーションから実際の作業環境での使用を目指して設計されています。特に:
-- 自動車製造などの産業分野での活用
-- 複雑なタスクへの対応能力の向上
-### 高度な知能と適応力
+  - 自動車製造などの産業分野での活用
+  - 複雑なタスクへの対応能力の向上
+-  高度な知能と適応力
 新Atlasは、環境認識や自己動力学モデルを活用し、周囲の状況に適応しながら動作することができます。
 
 Boston Dynamicsは、この新型Atlasを通じて、ヒューマノイドロボットの分野で飛躍的な進歩を遂げ、産業界の課題解決に貢献することを目指しています。
 
-## Figure 02
+## [Figure 02](https://www.figure.ai/)
 [![](http://img.youtube.com/vi/0SRVJaOg9Co/0.jpg)](http://www.youtube.com/watch?v=0SRVJaOg9Co "Introducing Figure 02")
-
-https://www.figure.ai/
 
 Figure 02は、Figure AI社が開発した最新の人型ロボット(ヒューマノイドロボット)です。主な特徴は以下の通りです:
 - デザイン: 前モデルよりスリムで洗練されたデザインで、配線が内部に統合されています。
@@ -59,11 +55,9 @@ Figure 02は、Figure AI社が開発した最新の人型ロボット(ヒュー�
 - 実用性: 製造業や物流業界での活用が期待されており、BMWの製造工程でテストされています。
 Figure 02は、高度なAI技術と洗練されたハードウェアを組み合わせることで、人間との協働や複雑なタスクの遂行を目指した次世代のヒューマノイドロボットと言えます。
 
-## 1X NEO Beta
+## [1X NEO Beta](https://www.1x.tech/)
 
 [![](http://img.youtube.com/vi/bUrLuUxv9gE/0.jpg)](http://www.youtube.com/watch?v=bUrLuUxv9gE "Introducing NEO Beta | A Humanoid Robot for the Home")
-
-https://www.1x.tech/
 
 1Xは、OpenAIやSoftBankなどから投資を受けている人型ロボットのスタートアップ企業が開発しているロボットです。以下がその主な特徴です:
 - 人型ロボット: 二足歩行が可能な人型のフォームファクターを持っています。
@@ -76,11 +70,9 @@ https://www.1x.tech/
 
 現時点では、まだ「賢い」ロボットというわけではありませんが、将来的にはAI技術との統合により、より高度な機能を持つことが期待されています。
 
-## Unitree G1
+## [Unitree G1](https://shop.unitree.com/products/unitree-g1)
 
 [![](http://img.youtube.com/vi/GzX1qOIO1bE/0.jpg)](http://www.youtube.com/watch?v=GzX1qOIO1bE "Unitree Introducing | Unitree G1 Humanoid Agent | AI Avatar | Price from $16K")
-
-https://shop.unitree.com/products/unitree-g1
 
 Unitree G1は、中国のロボット企業Unitree Roboticsが開発した小型のヒューマノイドロボットです。主な特徴は以下の通りです:
 - サイズと重量: 身長約127cm、重量約35kgと小型軽量です。
@@ -93,6 +85,6 @@ Unitree G1は、中国のロボット企業Unitree Roboticsが開発した小型
 
 Unitree G1は、研究開発や教育用途、さらには将来的な実用化を見据えて開発された、高性能かつ比較的手頃な小型ヒューマノイドロボットと言えます。
 
-
+## [Pudu Robotics](https://www.pudurobotics.com)
 
 
