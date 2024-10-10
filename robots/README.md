@@ -87,4 +87,12 @@ Unitree G1は、研究開発や教育用途、さらには将来的な実用化�
 
 ## [Pudu Robotics](https://www.pudurobotics.com)
 
+## [Leju Robotics](https://www.lejurobot.com)
+
+https://www.youtube.com/watch?v=jMqlJddW6ZI
+
+
+
+
+
 
