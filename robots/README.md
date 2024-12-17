@@ -96,5 +96,5 @@ https://www.youtube.com/watch?v=jMqlJddW6ZI
 ![](https://clonerobotics.com/_ipx/f_webp&q_80&s_2560x1440/assets/img/android/rotate_poster.jpg)
 
 
-
+## [XPeng](https://chinaspotlight.net/story/1691715/chinas-xpeng-unveils-humanoid-robot-with-60-joints-for-factory-tasks?twclid=2-vge5q9wmnsqvi66ey9hqg0v1）
 
