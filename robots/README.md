@@ -98,3 +98,5 @@ https://www.youtube.com/watch?v=jMqlJddW6ZI
 
 ## [XPeng](https://chinaspotlight.net/story/1691715/chinas-xpeng-unveils-humanoid-robot-with-60-joints-for-factory-tasks?twclid=2-vge5q9wmnsqvi66ey9hqg0v1）
 
+## [PUDU](https://prtimes.jp/main/html/rd/p/000000051.000087027.html)
+
