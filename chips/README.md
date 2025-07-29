@@ -1,3 +1,10 @@
+# [Ambiq Micro](https://ambiq.com)
+
+Ambiq Micro, founded in 2010 and headquartered in Austin, Texas, develops ultra‑low‑power semiconductor platforms and SoCs (Systems-on-Chip) tailored to enable battery-powered edge AI devices. Their proprietary technology, SPOT® (Sub‑threshold Power Optimized Technology), delivers significantly better energy efficiency compared to traditional chip designs. Ambiq has been shipped in over 270 million devices, notably in wearables and industrial IoT products.
+
+Trading under the ticker AMBQ on the New York Stock Exchange starting July 30–31, 2025. 
+
+
 # [SpiNNcloud Systems](https://spinncloud.com)
 
 SpiNNakerは、"spiking neural network architecture"の略で、英国、マンチェスター大学のコンピュータ・サイエンス部門のAPT（Advanced Processor Technologies Research Group）の研究者たちによって開発されました。
@@ -118,46 +125,70 @@ Cerebrasは従来の小型チップを複数接続する方式とは対照的に
 
 # [SambaNova Systems](https://sambanova.ai)
 
-SambaNova Systems（サンバノバシステムズ）は、AIチップの設計から大規模言語モデルの開発まで手がける総合的なAIテクノロジーカンパニーです：
+SambaNova Systems（サンバノバシステムズ）は、AI専用チップから大規模言語モデルまでを一貫開発する垂直統合型AIテクノロジーカンパニーです。2017年設立で、独自のRDU（Reconfigurable Dataflow Unit）アーキテクチャにより急成長を続けています。
 
-## 企業概要
-- 設立：2017年にシリコンバレーにて設立
-- バリュエーション：2021年時点で約50億ドル（約7,400億円）
+## 企業概要と資金調達
+- 設立：2017年、シリコンバレー
+- 企業価値：51億ドル（シリーズD時点）
+- 累計資金調達：11.4億ドル
+- 主要投資家：BlackRock、Google Ventures、Intel Capital、SoftBankビジョンファンド
+- 従業員数：350名（2024年）
 
-## 事業内容
-- DataScale®：AIに最適化されたサーバーシステム
-- RDU（Reconfigurable Data Unit）：独自開発のAIプロセッサ
-- SambaFlow®：ソフトウェアスタック
-- 大規模言語モデル（LLM）の開発と提供
-- AIソリューションのサブスクリプションサービス
+## 最新チップ：SN40L RDU（第4世代、2024年発表）
+### 技術仕様
+- 製造プロセス：TSMC 5nmノード
+- 演算性能：688 FP16テラフロップス
+- 消費電力：600W（TDP）
+- オンチップSRAM：520MB
+- HBMメモリ：64GB
+- DDRメモリ：1.5TB
+- 3層メモリ階層構造
 
-## 特徴
-- チップからソフトウェアまで垂直統合型のAIソリューションを提供
-- GPUに依存しない独自アーキテクチャを採用
-- エンタープライズ向けに最適化されたAIインフラストラクチャを展開
-- オンプレミス、クラウド、ハイブリッドなど柔軟な導入形態に対応
+### システム構成とパフォーマンス
+- 16 SN40L RDUで1ラック構成（8GB SRAM、1TB HBM）
+- 数兆パラメータのモデルを同時メモリ保持可能
+- モデル切替：マイクロ秒単位（GPU比100倍高速）
+- DeepSeek R1 671B、Llama 4 Maverickなど最大規模モデルに対応
+- GPU比10倍高速、1/10のコスト（同社主張）
 
-## 主要人物
-- CEO：ロドリゴ・リアン
-- 共同創業者：クンレ・オルコトン（スタンフォード大学教授）
-- 共同創業者：クリストファー・リー、マーシャル・チョイ
+## 2024年の主要展開
+### 製品・サービス
+- 2024年9月：SambaNova Cloud発表（世界最速AI推論サービス）
+- オンプレミス出荷：2024年開始
+- Samba-1モデル統合プラットフォーム
 
-## 資金調達
-- シリーズD（2021年）：6.76億ドル（約740億円）をソフトバンク・ビジョン・ファンド2がリード
-- 累計調達額：10億ドル以上
-- 主要投資家：Google Ventures、Intel Capital、BlackRock等
+### 新規顧客・パートナー（2024年追加）
+- Accenture、Analog Devices、NetApp
+- Saudi Aramco、SoftBank
+- Los Alamos国立研究所
+- Oak Ridge国立研究所（米国エネルギー省）
+- RIKEN計算科学研究センター（パートナーシップ拡大）
 
-## 技術的優位性
-- データセンター向けAIワークロードで従来のGPUベースシステムと比較して最大30倍の性能効率を実現
-- 独自のRDUアーキテクチャにより、AIモデルの学習から推論まで効率的に処理
-- 電力効率に優れ、TCO（総所有コスト）の大幅な削減を実現
+## 財務実績と事業モデル
+### 収益構造（推定）
+- 年間売上：1億〜5億ドル規模（推定値に幅あり）
+- ハードウェア売上：DataScaleシステム
+- プロフェッショナルサービス：新規顧客の25-33%
+- サブスクリプション：基盤モデル・Dataflow-as-a-Service
 
-## 市場での位置づけ
-- NVIDIA、Intel、AMDに次ぐAIチップメーカーとして急成長
-- エンタープライズAI市場において、特に金融、ヘルスケア、政府機関向けに強み
-- 2023年には独自開発のLLMも発表し、AIの完全統合ソリューションプロバイダーとしての地位を確立
+### 事業モデル
+- 垂直統合型：チップ設計からソフトウェア、モデル開発まで一貫提供
+- マルチデプロイメント：オンプレミス、クラウド、ハイブリッド対応
+- エンタープライズ・政府機関特化：金融、ヘルスケア、研究機関
 
-SambaNovaは、独自のハードウェア技術と垂直統合型のビジネスモデルを武器に、急成長するAIインフラ市場において、主要なプレイヤーとしての地位を確立しつつあります。特に、エンタープライズ向けAIソリューションの分野で、高い評価を得ています。
+## 技術的優位性とRDUアーキテクチャ
+- **Reconfigurable Dataflow Unit**：従来のGPUと根本的に異なるデータフロー処理
+- **メモリ最適化**：大容量オンチップ・近接メモリによるボトルネック解消
+- **エネルギー効率**：GPU比最大30倍の性能効率
+- **スケーラビリティ**：数千〜数百万同時ユーザー対応
+
+## 業界認知度と競争優位性
+- **Fast Company 2025最革新的コンピューティング企業**に選出
+- **エージェントAI時代**：次世代AIワークロード対応を先行
+- **GPU代替ソリューション**：NVIDIA依存からの脱却選択肢を提供
+- **セキュア・エネルギー効率AI**：政府・研究機関での導入拡大
+
+SambaNovaは独自のRDUテクノロジーと垂直統合戦略により、エンタープライズ・政府向けAI基盤市場において、NVIDIAに対抗する有力な選択肢として確固たる地位を築いています。特に大規模言語モデル時代からエージェントAI時代への移行期において、技術的先行優位を活かした事業展開を加速しています。
 
 # [Tenstorrent](https://tenstorrent.com)
 
